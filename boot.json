@@ -21,6 +21,10 @@
   "additionFile": [
     "README.md"
   ],
+  "additionBinaryFile": [
+  ],
+  "addonPlugin": [
+  ],
   "dependenceInfo": [
     {
       "modName": "ModLoader",
