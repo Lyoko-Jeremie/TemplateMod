@@ -19,5 +19,4 @@ label
 !label/.gitkeep
 dist*
 
-i18n.json
 *.zip
